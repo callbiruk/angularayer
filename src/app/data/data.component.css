@@ -1,0 +1,21 @@
+/* .my-card {
+    width: 80%;
+} */
+
+.example-month-picker .mat-calendar-period-button {
+    pointer-events: none;
+}
+
+.example-month-picker .mat-calendar-arrow {
+    display: none;
+}
+
+.info-alert {
+    height: 60px;
+    border-radius: 0;
+}
+
+.form-control-plaintext {
+    font-size: 14px !important;
+    font-weight: 500 !important;
+}
